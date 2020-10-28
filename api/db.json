@@ -14,6 +14,54 @@
       "title": "Me Streaming Component Reuse!",
       "description": "This stream is updated",
       "id": 4
+    },
+    {
+      "title": "Life in the City",
+      "description": "Ever wondered what life in the city is like? Check out these streamers of the exploration of life in the city as they go to different towns to explore food, local markets, night life, and more!",
+      "userId": "108796524153774166041",
+      "id": 11
+    },
+    {
+      "title": "Dance",
+      "description": "Watch live streaming of your favorite dancers now! Explore different styles of dancing such as hip hop, jazz, comtemporary, and ballet.",
+      "userId": "108796524153774166041",
+      "id": 12
+    },
+    {
+      "title": "City Life",
+      "description": "Ever wondered what life in the city is like? Check out these streamers of the exploration of life in the city as they go to different towns to explore food, local markets, night life, and more!",
+      "userId": "108796524153774166041",
+      "id": 13
+    },
+    {
+      "title": "Nature",
+      "description": "There is so much to nature that we haven't explored. Join this nature channel to go to safaris, into ranforests, and under the sea to discover things that you've never seen.",
+      "userId": "108796524153774166041",
+      "id": 14
+    },
+    {
+      "title": "Gaming",
+      "description": "Watch professional gamers online. Lot's of fun and excitement!",
+      "userId": "108796524153774166041",
+      "id": 15
+    },
+    {
+      "title": "MUKBANG",
+      "description": "Watch me eat tasty food! They are delicious!",
+      "userId": "109114846896992515809",
+      "id": 16
+    },
+    {
+      "title": "I love dogs",
+      "description": "This channel is for dog lovers!",
+      "userId": "109114846896992515809",
+      "id": 17
+    },
+    {
+      "title": "Hiking and Outdoors",
+      "description": "I love to go hiking with my dog!",
+      "userId": "108796524153774166041",
+      "id": 18
     }
   ]
 }
